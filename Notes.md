@@ -29,3 +29,5 @@ Install argon
 ```
 pip install "argon2-cffi>=16.1.0"
 ```
+
+Add `PASSWORD_HASHERS` and `TEMPLATES_DIR`, `STATIC_DIR`, `MEDIA_DIR`
