@@ -41,3 +41,10 @@ Install pillow
 ```
 pip install pillow
 ```
+
+When adding models or modifing admin create and run migrations
+
+```
+python manage.py makemigrations
+python manage.py migrate
+```
